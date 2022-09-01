@@ -54,3 +54,17 @@ form {
 .btn {
     margin-top: 15px;
 }
+
+.compose {
+    width: 10rem;
+}
+
+.compose:hover {
+    background-color: #1abc9c;
+    transition: 0.3s ease-in; 
+    box-shadow: 3px 3px 10px;
+}
+
+a {
+    color: black;
+}
